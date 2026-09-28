@@ -14,4 +14,4 @@ O conteúdo é aberto no site, sem login, pagamento ou bloqueio. O progresso e a
 ## Projeto
 O GitHub é a fonte oficial do código. O Lovable é usado somente para visualização/preview.
 
-O material é educacional e não promete enriquecimento ou retorno financeiro garantido.
+
